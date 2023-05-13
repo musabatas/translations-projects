@@ -13,23 +13,6 @@ msgstr ""
 "Language:de\n"
 "MIME-Version: 1.0\n"
 
-# wpml-name: Admin Label - Türkiyedeki sistemde oda sayısı örn: daire 2+1 se bu seçenek '2' olacak.
-
-Studio daireler için bunu 1 seçin, rooms yazanı '0' seçin.
-msgid ""
-"Türkiyedeki sistemde oda sayısı örn: daire 2+1 se bu seçenek '2' olacak.\n"
-"\n"
-"Studio daireler için bunu 1 seçin, rooms yazanı '0' seçin.\n"
-msgstr ""
-
-# wpml-name: Admin Label - Türkiyedeki sistemde salon sayısı örn: daire 2+1 se bu seçenek '1' olacak.
-msgid "Türkiyedeki sistemde salon sayısı örn: daire 2+1 se bu seçenek '1' olacak."
-msgstr ""
-
-# wpml-name: Admin Label - Türkiyedeki sistemde oda sayısı örn: daire 2+1 se bu seçenek '2' olacak.
-msgid "Türkiyedeki sistemde oda sayısı örn: daire 2+1 se bu seçenek '2' olacak."
-msgstr ""
-
 # wpml-name: Admin Label - sq_ft
 msgid "sq_ft"
 msgstr ""
